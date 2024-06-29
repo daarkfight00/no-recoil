@@ -46,7 +46,7 @@ Execute the tool
 python3 main.py
 ```
 
-## Installation for kali linux
+## Installation for Windows
 
 Install the repository
 
